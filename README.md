@@ -51,7 +51,7 @@ gdrive download 1GKs-NnezTc6WN0P_Zw7h6wYzRRZdJFKl
 ```
 ## 3. Train
 ```bash
-python train.py
+python train.py --continue_train True
 ```
 
 ## 4. Inference
