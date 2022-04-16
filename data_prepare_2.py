@@ -2,7 +2,7 @@ import json
 import os
 from tqdm import tqdm
 
-list_data_dir = {'train', 'val', 'test'}
+list_data_dir = ['train', 'val', 'test']
 for dir in list_data_dir:
     data_dir = os.path.join(dir, 'json')
     txt_dir = os.path.join(dir, 'txt')
