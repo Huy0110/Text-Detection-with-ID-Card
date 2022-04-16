@@ -40,6 +40,9 @@ mv data_formated data
 
 ## 2. Download pre-trained weights
 ```bash
+mkdir weights
+```
+```bash
 cd weights
 ```
 You should already have gdrive
