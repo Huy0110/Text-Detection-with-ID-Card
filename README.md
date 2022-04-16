@@ -12,7 +12,7 @@ pip install -r requirements.txt
 New dataset of VietNam ID card with 7 class, corresponds to 7 folders.<br />
 
 In each forders there are images accompanying the corresponding json file (with the same name).<br />
-The example dataset:
+The example dataset: https://drive.google.com/drive/folders/12S7zZPQc0rkKgSEsxCnAlMpaI2oqKFGH?usp=sharing
 
 # Run
 
