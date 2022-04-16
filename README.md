@@ -1,6 +1,5 @@
 # Text detection with ID Card
-This repo references to https://github.com/kaylode/vietnamese-ocr-toolbox
-I has fixed and add some file to make the model fit with new data of Vietname ID Card and clearing the code
+This repo references to https://github.com/kaylode/vietnamese-ocr-toolbox .\nI has fixed and add some file to make the model fit with new data of Vietname ID Card and clearing the code
 
 # Requirement
 ```bash
@@ -8,8 +7,8 @@ pip install -r requirements.txt
 ```
 
 # Dataset
-New dataset of VietNam ID card with 7 class, corresponds to 7 folders.
-In eacg forders there are images accompanying the corresponding json file (with the same name)
+New dataset of VietNam ID card with 7 class, corresponds to 7 folders.\n
+In each forders there are images accompanying the corresponding json file (with the same name)
 The example dataset:
 
 # Run
