@@ -1,7 +1,7 @@
 # Text detection with ID Card
 This repo references to https://github.com/kaylode/vietnamese-ocr-toolbox .<br />
 
-I has fixed and add some file to make the model fit with new data of Vietname ID Card and clearing the code
+I has fixed and add some file to make the model fit with new data of Vietnam ID Card and clearing the code
 
 # Requirement
 ```bash
