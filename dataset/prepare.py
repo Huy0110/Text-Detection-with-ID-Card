@@ -113,7 +113,7 @@ def coco_convert(data_dir, out_path, img_dir):
 
                 for row in data.splitlines():
                     ann = row.split(',')
-                    x1,y1,x4,y4,x3,y3,x1,y1 = ann[:8]
+                    x1,y1,x4,y4,x3,y3,x2,y2 = ann[:8]
                     text = ann[8:]
 
                     box_w = int(x2) - int(x1)
